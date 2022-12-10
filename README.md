@@ -1,4 +1,4 @@
-# Project 2 - Bash Command Line Tool 
+# Bash Command Line Tool with Databricks
 
 ## Key Objectives
 
